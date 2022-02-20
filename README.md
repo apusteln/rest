@@ -34,8 +34,35 @@ curl -H "Content-Type: application/json" -X «HTTP_METHOD» -d '{"«name»": "«
 ```
 
 ---
-Here are some tested querries:
+Here are some tested querries, we start with database looking like this:
 
+![Starting database](https://github.com/apusteln/rest/blob/main/imags/db_00.png)
+
+Then we post one product
+
+![POST](https://github.com/apusteln/rest/blob/main/imags/post_01.png)
+
+![Database with dragon fruit](https://github.com/apusteln/rest/blob/main/imags/db_01png)
+
+And put another one
+
+![PUT](https://github.com/apusteln/rest/blob/main/imags/put_02.png)
+
+![Database with peach](https://github.com/apusteln/rest/blob/main/imags/db_02.png)
+
+Then we can delete some items
+
+![DELETE](https://github.com/apusteln/rest/blob/main/imags/delete_03.png)
+
+![DELETE](https://github.com/apusteln/rest/blob/main/imags/delete_04.png)
+
+And we get to the beginning
+
+![DELETE](https://github.com/apusteln/rest/blob/main/imags/db-04.png)
+
+Additionally the local host page has the same info as the readme file:
+
+![home page](https://github.com/apusteln/rest/blob/main/imags/home_page.png)
 
 ---
 
