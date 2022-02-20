@@ -30,7 +30,7 @@ There is also an option to use the endpoints inside the browser, without specyfi
 
 The API has been tested using curl commands with different HTTP methods, like this:
 ```
-curl -H "Content-Type: application/json" -X «HTTP_METHOD» -d '{"«name»": "«product_name»"}' http://localhost:8080/products
+curl -H "Content-Type: application/json" -X «HTTP_METHOD» -d '{"name": "«product_name»"}' http://localhost:8080/products
 ```
 
 ---
@@ -58,7 +58,7 @@ Then we can delete some items
 
 And we get to the beginning
 
-![DELETE](https://github.com/apusteln/rest/blob/main/imags/db-04.png)
+![DELETE](https://github.com/apusteln/rest/blob/main/imags/db_04.png)
 
 Additionally the local host page has the same info as the readme file:
 
