@@ -42,7 +42,7 @@ Then we post one product
 
 ![POST](https://github.com/apusteln/rest/blob/main/imags/post_01.png)
 
-![Database with dragon fruit](https://github.com/apusteln/rest/blob/main/imags/db_01png)
+![Database with dragon fruit](https://github.com/apusteln/rest/blob/main/imags/db_01.png)
 
 And put another one
 
